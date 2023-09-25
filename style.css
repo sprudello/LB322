@@ -118,3 +118,9 @@ footer {
     font-size: 20px;
     color: var(--bgcolor);
 }
+
+h2 {
+    color: var(--bgcolor);
+}
+
+.oeffnung {}
